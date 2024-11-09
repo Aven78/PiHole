@@ -3,12 +3,10 @@ events.ads.vungle.com
 gateway.unityads.unity3d.com
 httpkafka.unityads.unity3d.com
 ae.iads.unity3d.com
-ae.iads.unity3d.com
 aps-attribution.unityads.unity3d.com
 auction-load.unityads.unity3d.com
 cdn-f.adsmoloco.com
 noti-us.adsmoloco.com
-cdn.liftoff-creatives.io
 adexp.liftoff.io
 ogads-pa.clients6.google.com
 scar.unityads.unity3d.com
@@ -17,7 +15,6 @@ ws.tapjoyads.com
 ads.inmobi.com
 sdk.ad.smaato.net
 ade.googlesyndication.com
-page##1.googlesyndication.com
 pagead2.googlesyndication.com
 
 
@@ -31,4 +28,4 @@ sdk-events.inner-active.mobi
 prd1.session.centech.glulive.com
 rpc.tapjoy.com
 cdn2.inner-active.mobi
-
+cdn.liftoff-creatives.io
