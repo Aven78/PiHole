@@ -1,12 +1,19 @@
 o.iads.unity3d.com
 events.ads.vungle.com
 gateway.unityads.unity3d.com
+httpkafka.unityads.unity3d.com
+ae.iads.unity3d.com
 ae.iads.unity3d.com
 aps-attribution.unityads.unity3d.com
 auction-load.unityads.unity3d.com
 cdn-f.adsmoloco.com
 noti-us.adsmoloco.com
+cdn.liftoff-creatives.io
 adexp.liftoff.io
+ogads-pa.clients6.google.com
+scar.unityads.unity3d.com
+googleads.g.doubleclick.net
+ws.tapjoyads.com
 
 
 ### UNCERTAIN
@@ -15,3 +22,5 @@ w.isx.unity3d.com
 cdn-lb.vungle.com
 gateway.prod.anzu-us.com
 sdk-events.inner-active.mobi
+prd1.session.centech.glulive.com
+rpc.tapjoy.com
