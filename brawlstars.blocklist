@@ -1,4 +1,4 @@
-*.brawlstarsgame.com
+^*.brawlstarsgame.com$
 brawlstarsgame.com
-*.brawlstars.com
+^*.brawlstars.com$
 brawlstars.com
