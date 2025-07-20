@@ -1,5 +1,4 @@
 # PiHole
-## Rules
+## Blocklists
 
-
-Set of rules that i use in combination with groups and activation/deactivation through HomeAssistant.
+Collection of BLocklists for PiHole that i use.
